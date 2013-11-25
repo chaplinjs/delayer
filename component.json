@@ -1,0 +1,17 @@
+{
+  "name": "delayer",
+  "repo": "chaplinjs/delayer",
+  "description": "Set unique, named timeouts and intervals so they can be cleared afterwards when disposing the object.",
+  "version": "0.0.1",
+  "keywords": [
+    "chaplinjs", "setInterval", "setTimeout", "interval", "timeout",
+    "dispose"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

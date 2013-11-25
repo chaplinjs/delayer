@@ -1,0 +1,22 @@
+{
+  "name": "delayer",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chaplinjs/delayer",
+  "authors": [
+    "Paul Miller (http://paulmillr.com)"
+  ],
+  "description": "",
+  "keywords": [
+    "chaplinjs", "setInterval", "setTimeout", "interval", "timeout",
+    "dispose"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
